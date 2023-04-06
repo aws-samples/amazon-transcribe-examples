@@ -2,13 +2,13 @@
 
 Below are the different sources for transcribe solutions and documentations.
 
-1. [AWS Blogs](AWS Blogs)
+1. [AWS Blogs] (AWS Blogs)
 
-2. [AWS Labs](AWS Labs)
+2. [AWS Labs] (AWS Labs)
 
-3. [AWS Samples Github Repositories](AWS Samples Github Repositories)
+3. [AWS Samples Github Repositories] (AWS Samples Github Repositories)
 
-4. [Hands On Labs](Hands On Labs)
+4. [Hands On Labs] (Hands On Labs)
 
 ## Security
 
