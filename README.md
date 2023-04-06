@@ -1,11 +1,14 @@
-## My Project
+# Amazon Transcribe Examples
 
-TODO: Fill this README out!
+Below are the different sources for transcribe solutions and documentations.
 
-Be sure to:
+1. [AWS Blogs](AWS Blogs)
 
-* Change the title in this README
-* Edit your repository description on GitHub
+2. [AWS Labs](AWS Labs)
+
+3. [AWS Samples Github Repositories](AWS Samples Github Repositories)
+
+4. [Hands On Labs](Hands On Labs)
 
 ## Security
 
@@ -14,4 +17,3 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
-
